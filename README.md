@@ -2,7 +2,7 @@
 This is a password manager made by Python and tkinter. To use, 'tkinter' library installation required.
 
 ## Function
-- Password management by exporting to data.txt file
+- Password management by exporting to data.json file
 - Password validation
 - Password auto generation
 - Password auto copy when it's added to data.json file
