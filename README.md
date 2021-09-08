@@ -5,7 +5,8 @@ This is a password manager made by Python and tkinter. To use, 'tkinter' library
 - Password management by exporting to data.txt file
 - Password validation
 - Password auto generation
-- password auto copy when it's added to data.txt file
+- Password auto copy when it's added to data.json file
+- Serach and show detail if there's previous saved information of the entered website
 
 Comfirmed to work on:
 - MacOS (11.52)
